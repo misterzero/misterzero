@@ -1,4 +1,4 @@
-<a href=”https://twitter.com/yutopyan"><img src=”https://img.shields.io/twitter/follow/yutopyan?label=Follow&style=social"></a>
+![Twitter Follow](https://img.shields.io/twitter/follow/yutopyan?style=social)
 ### Greetings, Earthling
 - Enterprise/Cloud Architect
 - Coding since 2000
