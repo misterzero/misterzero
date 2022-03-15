@@ -1,4 +1,4 @@
-![Stars](https://img.shields.io/github/stars/thecommonsproject?affiliations=OWNER&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/yutopyan?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/yutopyan?style=social)
 ### Greetings, Earthling
 - Enterprise/Cloud Architect
 - Coding since 2000
