@@ -1,4 +1,8 @@
-### Hi there 👋
+<a href=”https://twitter.com/yutopyan"><img src=”https://img.shields.io/twitter/follow/yutopyan?label=Follow&style=social"></a>
+### Greetings, Earthling
+- Enterprise/Cloud Architect
+- Coding since 2000
+- Enterprise Architect at [The Commons Project](https://thecommonsproject.org)
 
 <!--
 **misterzero/misterzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
